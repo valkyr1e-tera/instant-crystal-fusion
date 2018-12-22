@@ -1,0 +1,8 @@
+{
+	"disableAutoUpdate": false,
+	"name": "instant-crystal-fusion",
+	"author": "valkyr1e",
+	"description": "Removes the annoying animation and skips the progress bar for crystal fusioning.",
+	"version": "1.0",
+	"servers": ["https://raw.githubusercontent.com/valkyr1e-tera/instant-crystal-fusion/master/"]
+}
